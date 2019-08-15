@@ -1,6 +1,11 @@
 Django-Mapbox
 =======================
 
+## Add your mapbox token in settings.py file
+```bash
+nano .\djmaps\settings.py
+```
+
 ## Installation
 
 ```bash
